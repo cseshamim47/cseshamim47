@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Md Shamim Ahmed
 - 👀 I’m interested in Problem Solving, Learning Maths and C++
 - 🌱 I’m currently learning more Maths
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m love coding!!
 - 📫 Reach me through cseshamim47@gmail.com
 
 <!---
