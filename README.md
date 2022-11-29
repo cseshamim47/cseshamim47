@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **more Maths**
 
-- 💞️ I’m in love with **coding**
+- 💞️ In love with **coding**
 
 - 💬 Ask me about **C++**
 
 - 📫 Reach me through **cseshamim47@gmail.com**
-
-- :coffee: I love **Coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
