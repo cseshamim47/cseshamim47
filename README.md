@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Md Shamim Ahmed</h1>
 <h3 align="center">A passionate competitive programmer from Bangladesh</h3>
 
-- 👀 I’m interested in **Problem Solving, Learning Maths and C++**
+- 🌱 **Competitive Programmer | ICPC Dhaka Regionalist 2023 | Software Engineering Enthusiast**
+  
+- 👀 I’m interested in **Learning DSA and Problem Solving**
 
-- ☕ Coffee is my **drug**
-
-- 🌱 I’m currently learning **more Maths**
+- ☕ I love **Coffee**
 
 - 💞️ In love with **coding**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **Problem Solving | Software Engineering**
 
 - 📫 Reach me through **cseshamim47@gmail.com**
 
